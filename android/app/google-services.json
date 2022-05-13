@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "224541194584",
+    "project_id": "venetian-pines",
+    "storage_bucket": "venetian-pines.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224541194584:android:9e8dad27bcf10e10854d2d",
+        "android_client_info": {
+          "package_name": "com.hollysoft.venetian_pines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224541194584-99rajukpg0fk5g1h4c7nvnh0no3sa5bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hollysoft.venetian_pines",
+            "certificate_hash": "2cb623658e3ca2eec53f8df0293715f10cb11054"
+          }
+        },
+        {
+          "client_id": "224541194584-b98thfft48ej1otsn5kh2br5qum059r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6q1GlDJBR-AKG7SacjxGjC4h_fdDsUQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224541194584-b98thfft48ej1otsn5kh2br5qum059r0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224541194584-acrjqiks7csmo2g5ogsllopg971h7isg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hollysoft.venetianPines"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
